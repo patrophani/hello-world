@@ -1,0 +1,4 @@
+:hello world this is phani
+ok now fish the game
+:wq
+
